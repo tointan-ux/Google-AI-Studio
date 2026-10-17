@@ -1,0 +1,8 @@
+{
+  "name": "SoftProof - Prepress Soft Proofing & TIFF Plate Loader",
+  "description": "Professional prepress soft proofing application with real 1-bit and multi-channel TIFF separation plate loader, densitometer, halftone dot screen inspector, and print simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
